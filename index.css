@@ -1,0 +1,104 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.right-content {
+  border: ;
+  height: 68vh;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+div.right-content:hover { 
+  border: 1px solid #ededed;
+}
+
+nav {
+  margin-top: 25px;
+}
+div.free-shipping { 
+  display: block;
+  box-sizing: border-box;
+  background-color: black;
+  text-align: center;
+  color: #fff;
+  padding: 5px;
+  width: 27%;
+  margin-top: 10px;
+  margin-left: 165px;
+  font-size: 0.6em;
+  line-height: 10px;
+  font-family: Roboto, "sans-serif";
+  border-radius: 2px;
+}
+
+.left-container {
+  margin-top: 30px;
+}
+.first-btn {
+  display: block;
+  background-color: black;
+  color: #fff;
+  box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+  height: 33px;
+  width: 27vh;
+}
+
+.first-btn:hover {
+    background-color: #ffa500;
+  color: white;
+}
+
+.price {
+  text-align: center;
+}
+.size-btn {
+    border-radius: 60%;
+    margin: 10px 2px;
+    line-height: 20px;
+    font-size: 14px;
+    font-family: Roboto, "sans-serif";
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+}
+b {
+  font-size: 20px;
+}
+.size-btn {
+  font-size: 10px;
+}
+.installment {
+  color: grey;
+}
+hr.new {
+  width: 20px;
+   border: 1px solid #ffa500;
+  margin-left: 100px;
+  font-weight: bold;
+}
+.star-btn {
+  margin-top: 10px;
+  background-color: #f0f0f0;
+  color: black;
+  font-weight: bold;
+}
+.small-p {
+  font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
